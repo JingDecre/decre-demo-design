@@ -1,6 +1,5 @@
-package org.decre.demo.design.test;
+package org.decre.demo.design;
 
-import org.decre.demo.design.StoreFactory;
 import org.decre.demo.design.store.ICommodity;
 import org.junit.Test;
 
